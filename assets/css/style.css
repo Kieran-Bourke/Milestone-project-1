@@ -1,0 +1,49 @@
+/* Color scheme 
+    #CE4027 - orange is 
+    #F4F4F4 -  off white
+    #222844 - dark blue 
+
+
+*/ 
+/* ----------------------- colors */
+
+/*-------------Header*/
+
+.jumbotron.jumbotron-fluid{
+    margin-bottom: 0;
+  }
+  
+  .nav-background-color{
+    background-color: #e9ecef;
+  }
+  
+  
+  /*-------------Main sections*/
+  section{
+    height: 813px
+    
+  }
+  
+  .home-page{
+      height: 813px;
+  }
+  
+  
+  h2{
+    text-align:center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+  }
+  
+  
+  
+  /*-------------Footer*/
+  .social-section{
+   float:right;
+   margin-right: 30px;
+  }
+  
+  @media only screen and (max-width: 320px) {
+  }
+  
