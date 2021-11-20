@@ -4,46 +4,121 @@
     #222844 - dark blue 
 
 
-*/ 
-/* ----------------------- colors */
+*/
+
 
 /*-------------Header*/
 
-.jumbotron.jumbotron-fluid{
-    margin-bottom: 0;
+.jumbotron.jumbotron-fluid {
+  margin-bottom: 0;
+  background-color: #222844;
+  color: #f4f4f4;
+  padding-bottom: 0;
+}
+
+
+.nav-background-color {
+  background-color: #222844;
+}
+
+.navbar-text-color {
+  color: #f4f4f4;
+}
+
+.fa-bars {
+  color: #f4f4f4;
+}
+
+a {
+  text-decoration: none;
+  color: #f4f4f4;
+  text-align: center;
+}
+
+/*-------------Main sections*/
+section {
+  height: 813px;
+  position: relative;
+
+}
+
+
+.home-page {
+  height: 813px;
+}
+
+
+h2 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #f4f4f4;
+  font-weight: 500;
+}
+
+/* help from stack overlow https://stackoverflow.com/questions/5817233/align-button-at-the-bottom-of-div-using-css */
+.btn {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+/*-------------Images*/
+
+#acoustic {
+  background-image: url(../images/photo-1510915361894-db8b60106cb1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#electric {
+  background-image: url(../images/photo-1513092186897-683e31a91216.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#classical {
+  background-image: url(../images/photo-1557694463-7ff6dc1c603d.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+
+/*-------------Footer*/
+.social-section {
+  float: right;
+  margin-right: 30px;
+}
+
+footer {
+  background-color: #222844;
+}
+
+
+
+
+
+/*-------------Media queires*/
+
+@media only screen and (max-width: 320px) {
+  section {
+    height: 30vh;
   }
-  
-  .nav-background-color{
-    background-color: #e9ecef;
+
+}
+
+
+@media only screen and (max-width: 480px) {
+  section {
+    height: 30vh;
   }
-  
-  
-  /*-------------Main sections*/
-  section{
-    height: 813px
-    
+
+}
+
+
+@media only screen and (max-width: 768px) {
+  section {
+    height: 50vh;
   }
-  
-  .home-page{
-      height: 813px;
-  }
-  
-  
-  h2{
-    text-align:center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border: 1px solid black;
-  }
-  
-  
-  
-  /*-------------Footer*/
-  .social-section{
-   float:right;
-   margin-right: 30px;
-  }
-  
-  @media only screen and (max-width: 320px) {
-  }
-  
+
+}
