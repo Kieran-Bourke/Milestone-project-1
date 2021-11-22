@@ -9,91 +9,93 @@
 
 /*-------------Header*/
 
-.jumbotron.jumbotron-fluid {
+.jumbotron.jumbotron-fluid{
   margin-bottom: 0;
-  background-color: #222844;
+  background-color:#222844;
   color: #f4f4f4;
   padding-bottom: 0;
 }
 
 
-.nav-background-color {
+.nav-background-color{
   background-color: #222844;
 }
 
-.navbar-text-color {
+.navbar-text-color{
   color: #f4f4f4;
 }
 
-.fa-bars {
+.fa-bars{
   color: #f4f4f4;
 }
 
-a {
+a{
   text-decoration: none;
   color: #f4f4f4;
   text-align: center;
 }
 
 /*-------------Main sections*/
-section {
+section{
   height: 813px;
   position: relative;
-
+  
 }
 
 
-.home-page {
-  height: 813px;
+.home-page{
+    height: 813px;
 }
 
 
-h2 {
-  text-align: center;
+h2{
+  text-align:center;
   padding-top: 10px;
   padding-bottom: 10px;
   color: #f4f4f4;
   font-weight: 500;
 }
-
 /* help from stack overlow https://stackoverflow.com/questions/5817233/align-button-at-the-bottom-of-div-using-css */
-.btn {
+.btn{
   position: absolute;
   bottom: 20px;
   right: 20px;
 }
-
 /*-------------Images*/
 
-#acoustic {
-  background-image: url(../images/photo-1510915361894-db8b60106cb1.jpg);
+#acoustic{
+  background-image:  url(../images/photo-1510915361894-db8b60106cb1.jpg);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
 }
-
-#electric {
-  background-image: url(../images/photo-1513092186897-683e31a91216.jpg);
+#electric{
+  background-image:  url(../images/photo-1513092186897-683e31a91216.jpg);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
 }
-
-#classical {
-  background-image: url(../images/photo-1557694463-7ff6dc1c603d.jpg);
+#classical{
+  background-image:  url(../images/photo-1557694463-7ff6dc1c603d.jpg);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
 }
 
 
 /*-------------Footer*/
-.social-section {
-  float: right;
-  margin-right: 30px;
+.social-section{
+ float:right;
 }
 
-footer {
+footer{
   background-color: #222844;
 }
 
+.social-section-icons{
+  margin: 0, 5px, 5px, 5px;
+}
+
+h5{
+  color: #f4f4f4;
+}
 
 
 
@@ -101,24 +103,25 @@ footer {
 /*-------------Media queires*/
 
 @media only screen and (max-width: 320px) {
-  section {
+  section{
     height: 30vh;
+  } 
+  
   }
-
-}
 
 
 @media only screen and (max-width: 480px) {
-  section {
-    height: 30vh;
-  }
+section{
+  height: 30vh;
+} 
 
 }
 
 
 @media only screen and (max-width: 768px) {
-  section {
+  section{
     height: 50vh;
+  } 
+  
   }
-
-}
+   
