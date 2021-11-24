@@ -94,19 +94,17 @@ h2 {
   background-size: cover;
 }
 
-.guitar-types {
+.guitar-types{
   width: 100%;
   height: 300px;
 }
 
-.guitar-images {
-  border: 1px solid black;
-  width: 50%;
-  height: 50%;
-  float: right;
-  display: inline-block;
-  overflow: hidden;
-
+.guitar-images{
+width: 50%;
+height: 50%;
+float: right;
+display: inline-block;
+overflow: hidden;
 }
 
 
@@ -190,20 +188,24 @@ body {
 }
 
 
-@media only screen and (min-width: 1024px) {
-  .guitar-types {
-    width: 100%;
+@media only screen and (min-width: 1024px ){
+  .guitar-types{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
     height: 300px;
-
+    
+  }
+  
+  .guitar-images{
+  width: 25%;
+  height: 50%;
+  padding: 10px;
+  display: inline-block;
+  overflow: hidden;
+  
   }
 
-  .guitar-images {
-    width: 25%;
-    height: 50%;
-    float: right;
-    display: inline-block;
-    overflow: hidden;
 
-  }
 
 }
