@@ -1,102 +1,83 @@
-/* Color scheme 
-    #CE4027 - orange is 
-    #F4F4F4 -  off white
-    #222844 - dark blue 
-
-
-*/
-
-
 /*-------------Header*/
 
-.jumbotron.jumbotron-fluid {
+.jumbotron.jumbotron-fluid{
   margin-bottom: 0;
-  background-color: #222844;
+  background-color:#222844;
   color: #f4f4f4;
   padding-bottom: 0;
 }
 
 
-.nav-background-color {
+.nav-background-color{
   background-color: #222844;
 }
 
-.navbar-text-color {
+.navbar-text-color{
   color: #f4f4f4;
 }
 
-.fa-bars {
+
+.fa-bars{
   color: #f4f4f4;
 }
 
-a {
+a{
   text-decoration: none;
   color: #f4f4f4;
   text-align: center;
 }
 
 /*-------------Main sections*/
-section {
+section{
   height: 813px;
   position: relative;
-
-}
-
-
-.home-page {
-  height: 813px;
+  
 }
 
 /* Home page overview text*/
-.homepage-text {
+.homepage-text{
   width: 33%;
   height: fit-content;
   float: left;
   margin: 100px 50px 50px 50px;
-  color: #f4f4f4;
+  color: #f4f4f4 ;
   font-weight: 600;
-  background-color: rgba(34, 40, 68, .5);
+  background-color:  rgba(0, 0, 0, .5);/* rgba(34, 40, 68, .5);*/
 }
 
-
-h2 {
-  text-align: center;
+h2{
+  text-align:center;
   padding-top: 10px;
   padding-bottom: 10px;
   color: #f4f4f4;
   font-weight: 500;
 }
-
 /* help from stack overlow https://stackoverflow.com/questions/5817233/align-button-at-the-bottom-of-div-using-css */
-.btn {
+.btn{
   position: absolute;
   bottom: 20px;
   right: 20px;
 }
-
 /*-------------Images*/
 
-#acoustic {
-  background-image: url(../images/photo-1510915361894-db8b60106cb1.jpg);
+#acoustic{
+  background-image:  url(../images/photo-1510915361894-db8b60106cb1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#electric{
+  background-image:  url(../images/photo-1513092186897-683e31a91216.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#classical{
+  background-image:  url(../images/photo-1557694463-7ff6dc1c603d.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-#electric {
-  background-image: url(../images/photo-1513092186897-683e31a91216.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
-#classical {
-  background-image: url(../images/photo-1557694463-7ff6dc1c603d.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-
-
-.guitar-types {
+.guitar-types{
   width: 100%;
   height: 300px;
   background-color: #222844;
@@ -104,46 +85,45 @@ h2 {
 
 }
 
-.guitar-images {
-  width: 50%;
-  height: 50%;
-  display: inline-block;
-  overflow: hidden;
-  padding-bottom: 100px;
+.guitar-images{
+width: 50%;
+height: 50%;
+float: right;
+display: inline-block;
+overflow: hidden;
+
+
 }
-
-
-
-
 
 
 
 /*-------------Footer*/
-.social-section {
-  float: right;
+.social-section{
+ float:right;
 }
 
-footer {
+footer{
   background-color: #222844;
 }
 
-.social-section-icons {
+.social-section-icons{
   margin: 0, 5px, 5px, 5px;
 }
 
-h5 {
+h5{
   color: #f4f4f4;
 }
 
-#fixed-bottom {
+#fixed-bottom{
   position: absolute;
   width: 100%;
   bottom: 0;
 }
 
 
-/*-------------Contact page*/
 
+
+/*-------------Contact page*/
 /*https://stackoverflow.com/questions/39068128/how-can-i-make-a-textarea-that-fits-within-the-width-of-the-current-viewport/39068155 */
 textarea {
   -webkit-box-sizing: border-box;
@@ -155,23 +135,22 @@ textarea {
   margin-right: auto;
   width: 80%;
 }
-
 /* https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll */
-html,
-body {
+html, body {
   max-width: 100%;
   overflow-x: hidden;
 }
 
+
 /*-------------Overview on info pages*/
 
-.overview {
-  background-color: #CE4027;
+.overview{
+  background-color:  #CE4027;
   height: fit-content;
 
 }
 
-.overview p {
+.overview p{
   margin-top: 50px;
   margin-bottom: 0;
   text-align: center;
@@ -179,99 +158,107 @@ body {
   font-size: large;
 }
 
-
 /*-------------Easy songs section*/
 
-.easy-songs {
+.easy-songs{
   height: fit-content;
   margin-bottom: 0;
   background-color: #CE4027;
   z-index: 0;
 }
 
-.easy-songs a {
+.easy-songs a{
   text-decoration: underline;
   color: blue;
 }
 
-.easy-songs h2 {
+.easy-songs h2{
   height: fit-content;
   padding-top: 0;
-
+  
 }
 
 
 
 
-.easy-songs p {
-  color: #f4f4f4;
+.easy-songs p{
+  color:#f4f4f4;
   text-align: center;
 
 }
 
-.song {
+.song{
   height: fit-content;
   padding-bottom: 50px;
 }
 
-audio {
+audio{
   float: right;
   padding-bottom: 10px;
-
+ 
 
 }
-
 
 
 /*-------------Media queires*/
 
 @media only screen and (max-width: 320px) {
-  section {
+  section{
     height: 30vh;
+  } 
+  
   }
-
-}
 
 
 @media only screen and (max-width: 480px) {
-  section {
-    height: 30vh;
-  }
+section{
+  height: 30vh;
+} 
 
 }
 
 
 @media only screen and (max-width: 768px) {
-  section {
+  section{
     height: 50vh;
+  } 
+  .homepage-text{
+   display: none;
   }
-
-  .homepage-text {
-    display: none;
-  }
-
-
+  
+  
 }
 
 
-@media only screen and (min-width: 1024px) {
-  .guitar-types {
+@media only screen and (min-width: 1024px ){
+
+
+
+ 
+ 
+  .guitar-types{
     margin-left: auto;
     margin-right: auto;
     width: 100%;
     height: 300px;
-
+  
   }
+  
+  .guitar-images{
+    
+  width: 25%;
+  height: 70%;
+  padding: 10px;
+  display: inline-block;
+  overflow: hidden;
+  padding-bottom: 100px;
+   }
 
-  .guitar-images {
-    width: 25%;
-    height: 70%;
-    padding: 10px;
-    display: inline-block;
-    overflow: hidden;
-  }
 
+   
 
 
 
 }
+   
+ 
