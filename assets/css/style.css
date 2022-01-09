@@ -187,8 +187,6 @@ body {
 }
 
 
-
-
 .easy-songs p {
   color: #f4f4f4;
   text-align: center;
@@ -213,6 +211,8 @@ audio {
     height: 30vh;
   }
 
+
+
 }
 
 
@@ -220,6 +220,7 @@ audio {
   section {
     height: 30vh;
   }
+
 
 }
 
