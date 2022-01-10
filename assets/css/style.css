@@ -138,7 +138,7 @@ textarea {
   box-sizing: border-box;
   /*https://stackoverflow.com/questions/3580063/how-to-center-a-textarea-using-css*/
   display: block;
-  margin-left: auto;
+  margin-left: 14px;
   margin-right: auto;
   width: 80%;
 }
