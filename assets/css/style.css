@@ -1,5 +1,5 @@
 /*---------------Font*/
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap'); 
 /*-------------Header*/
 
 .jumbotron.jumbotron-fluid {
@@ -186,7 +186,7 @@ body {
 
 .easy-songs a {
   text-decoration: underline;
-  color: #ffffff;
+  color: #f4f4f4;
 }
 
 .easy-songs h2 {
@@ -196,7 +196,7 @@ body {
 }
 
 .easy-songs h6{
-  color: #ffffff;
+  color: #f4f4f4;
 }
 
 .easy-songs p {
