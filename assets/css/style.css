@@ -112,7 +112,12 @@ footer {
   background-color: #222844;
 }
 
+footer h5 {
+  padding-top: 7px;
+}
+
 .social-section-icons {
+  padding-top: 9px;
   margin: 0 5px 5px 5px;
 }
 
