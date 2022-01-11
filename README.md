@@ -81,12 +81,12 @@ differences between the different guitars.
 
 I used W3C Markup Validator and W3C CSS Validatior to ensure my code was free of syntax errors.
 -
- [W3C Markup Validator - index.html](assets/w3c-validators/index-html-validator.JPG)  
- [W3C Markup Validator - acoustic.html](assets/w3c-validators/acoustic-validator.JPG)  
- [W3C Markup Validator - electric.html](assets/w3c-validators/electric-validator.JPG)  
- [W3C Markup Validator - classical.html](assets/w3c-validators/classical-validator.JPG)  
- [W3C Markup Validator - contact.html](assets/w3c-validators/contact-validator.JPG)  
- [W3C CSS Validator - style.css](assets/w3c-validators/css-validation.JPG)
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input)[- index.html](assets/w3c-validators/index-html-validator.JPG)  
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input)-[acoustic.html](assets/w3c-validators/acoustic-validator.JPG)  
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input)[- electric.html](assets/w3c-validators/electric-validator.JPG)  
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input)[- classical.html](assets/w3c-validators/classical-validator.JPG)  
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input)[- contact.html](assets/w3c-validators/contact-validator.JPG)  
+ [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)[- style.css](assets/w3c-validators/css-validation.JPG)
  ### Testing User Stories From User Experience (UX) Section
 
 - #### First Time Visitor Goals 
