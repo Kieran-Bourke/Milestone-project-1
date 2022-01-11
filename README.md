@@ -159,6 +159,30 @@ I used W3C Markup Validator and W3C CSS Validatior to ensure my code was free of
 	- Gutiar types images are not correct as I couldnt find non copyright images of those specific types.
 	- Guitar types images do not show the guitars on mobile as the positioning is off.
     - Footer on contact page rises up on larger screen sizes.
+
+## Problems I had 
+
+---
+    
+#### Widths 
+    An issue I ran into while working on the index.html page was the overview texts width, I had it set to 33% originally but this caused issues with sizing. 
+	I fixed this by making it fit-content and this gave me the look I wanted. 
+
+#### Resposive Nav Bar
+    I wanted to create a responsive nav bar for mobile that would shrink down into a hamburger icon. This caused a lot of issues as it involved jquery which is something I had 
+	no experiance with. It took me a long time to even know what to google but I eventualy found a stack overflow post(link in the credits section) that explained what I needed and 
+	how to implement it. This problem taught me that how you phrase your question can give you different results on google search. 
+
+#### Side Scrolling
+    When I added a bootstrap form onto contact.html It caused side scrolling. I was unsure how to remove it but also wanted to keep using the bootstrap as it saved me alot of time.
+	This caused me to search for a soloution on stack overflow where I quickly found a soloution that I would not of figured out on my own without alot of time and effort. This taught me 
+	that stack overflow covers a large amount of topics and that you can find a soloution to almost any problem. 
+
+#### Z-Index
+    I ran into a issue where the easy songs secion of my site would cover the images. This confused me as I had no idea why this was happening. I then rememberd a lesson on z-indexing
+	that allowed me to solve the problem by giving the types section a z-index of 1 and a z-index of 0 to easy songs section. 
+
+
 ## Deployment
 
 ---
