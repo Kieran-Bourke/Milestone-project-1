@@ -103,6 +103,8 @@ h2 {
 
 }
 
+ 
+  
 
 
 /*-------------Footer*/
@@ -223,6 +225,11 @@ audio {
     height: 30vh;
   }
 
+  .image-scale{
+    width: 100%;
+    height: auto;
+  }
+  
 
 
 }
@@ -232,12 +239,16 @@ audio {
   section {
     height: 30vh;
   }
-
+  
+   .image-scale{
+    width: 100%;
+    height: auto;
+  }
 
 }
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   section {
     height: 50vh;
   }
@@ -245,7 +256,11 @@ audio {
   .homepage-text {
     display: none;
   }
-
+   .image-scale{
+    width: 100%;
+    height: auto;
+  }
+  
 
 }
 
