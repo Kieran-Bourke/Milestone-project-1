@@ -248,7 +248,7 @@ audio {
 }
 
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
   section {
     height: 50vh;
   }
@@ -276,7 +276,7 @@ audio {
     margin-right: auto;
     width: 100%;
     height: 300px;
-
+    
   }
 
   .guitar-images {
@@ -300,7 +300,10 @@ audio {
     width: 80%;
   }
 
-
-
+    .guitar-image-scale{
+      width: 100%;
+      height: auto;
+    }
 
 }
+
