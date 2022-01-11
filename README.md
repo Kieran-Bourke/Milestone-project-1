@@ -158,7 +158,7 @@ I used W3C Markup Validator and W3C CSS Validatior to ensure my code was free of
 	- Guitar types do not have names as it caused stacking issues.
 	- Gutiar types images are not correct as I couldnt find non copyright images of those specific types.
 	- Guitar types images do not show the guitars on mobile as the positioning is off.
-
+    - Footer on contact page rises up on larger screen sizes.
 ## Deployment
 
 ---
