@@ -222,7 +222,7 @@ audio {
 
 
 /*-------------Media queires*/
-
+/* mobile */
 @media only screen and (max-width: 320px) {
   section {
     height: 30vh;
@@ -311,7 +311,7 @@ audio {
  
 
 }
-
+/* 4k screens*/
 @media only screen and (min-width: 2559px){
 
   .easy-songs {
