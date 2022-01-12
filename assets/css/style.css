@@ -5,7 +5,7 @@
 .jumbotron.jumbotron-fluid {
   margin-bottom: 0;
   background-color: #222844;
-  color: #f4f4f4;
+  color: #ffffff;
   padding-bottom: 0;
 }
 
@@ -15,17 +15,17 @@
 }
 
 .navbar-text-color {
-  color: #f4f4f4;
+  color: #ffffff;
 }
 
 
 .fa-bars {
-  color: #f4f4f4;
+  color: #ffffff;
 }
 
 a {
   text-decoration: none;
-  color: #f4f4f4;
+  color: #ffffff;
   text-align: center;
 }
 
@@ -43,7 +43,7 @@ section {
   height: fit-content;
   float: left;
   margin: 100px 50px 50px 50px;
-  color: #f4f4f4;
+  color: #ffffff;
   font-weight: 600;
   background-color: rgba(0, 0, 0, 0.7);
   
@@ -53,7 +53,7 @@ h2 {
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
-  color: #f4f4f4;
+  color: #ffffff;
   font-weight: 500;
 }
 
@@ -126,7 +126,7 @@ footer h5 {
 }
 
 h5 {
-  color: #f4f4f4;
+  color: #ffffff;
 }
 
 #footer-bottom {
@@ -173,7 +173,7 @@ body {
   margin-top: 50px;
   margin-bottom: 0;
   text-align: center;
-  color: #f4f4f4;
+  color: #ffffff;
   font-size: large;
 }
 
@@ -188,7 +188,7 @@ body {
 
 .easy-songs a {
   text-decoration: underline;
-  color: #f4f4f4;
+  color: #ffffff;
 }
 
 .easy-songs h2 {
@@ -198,13 +198,12 @@ body {
 }
 
 .easy-songs h6{
-  color: #f4f4f4;
+  color: #ffffff;
 }
 
 .easy-songs p {
-  color: #f4f4f4;
+  color: #ffffff;
   text-align: center;
-
 }
 
 .song {
