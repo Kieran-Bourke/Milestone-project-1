@@ -227,7 +227,7 @@ audio {
   section {
     height: 30vh;
   }
-
+  /* Scales the image for diferent size screens */
   .image-scale{
     width: 100%;
     height: auto;
@@ -242,7 +242,7 @@ audio {
   section {
     height: 30vh;
   }
-  
+  /* Scales the image for diferent size screens */
    .image-scale{
     width: 100%;
     height: auto;
@@ -259,6 +259,7 @@ audio {
   .homepage-text {
     display: none;
   }
+  /* Scales the image for diferent size screens */
    .image-scale{
     width: 100%;
     height: auto;
