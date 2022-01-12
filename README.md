@@ -39,7 +39,7 @@ This website is designed to inform aspiring guitar players on the basics of guit
 
 ###  color scheme 
 
-- colors used for background orange (#CE4027) and dark blue (#222844), an off-white color was used for the text (#f4f4f4) 
+- colors used for background orange (#CE4027) and dark blue (#222844), an white color was used for the text (#ffffff) 
 
 
 ### Typography 
