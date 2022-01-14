@@ -230,13 +230,6 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
         3. The website uses audio to further add to the understanding of the differences between guitar types. (Audio will be added soon)  
  
 
- ## Known Bugs   
-
-    - Guitar types images are not correct as I couldn't find non copyright images of those specific types. 
-
-    - Footer on contact page rises up on larger screen sizes. 
- 
-
 ## Problems I had  
 
 ---     
