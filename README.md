@@ -7,9 +7,9 @@ This website is designed to inform aspiring guitar players on the basics of guit
 
 ## UX  
 
-## User stories   
+ - ## User stories   
 
-###  First time visitor goals 
+     - ###  First time visitor goals 
 
     1. To easily understand the purpose of the website. 
 
@@ -18,7 +18,7 @@ This website is designed to inform aspiring guitar players on the basics of guit
     3. To be able to easily and quickly find the information they are looking for.  
 
 
-### Returning Visitor goals 
+  - ### Returning Visitor goals 
 
     1. To be able to quickly navigate to the pages they want. 
 
@@ -27,7 +27,7 @@ This website is designed to inform aspiring guitar players on the basics of guit
     3. To feel comfortable using the contact form if anything is not working.   
 
 
-### Frequent user goals 
+ - ### Frequent user goals 
 
     1.To be able to quickly navigate to the pages they want. 
 
@@ -69,53 +69,47 @@ differences between the different guitars.
 
 --- 
 
-## Features 
+ - ## Features 
 
-    1. Responsive on all device sizes 
+    - Responsive on all device sizes 
 
-    2. Playable audio  
+    - Playable audio  
 
-    3. Contact form 
+    - Contact form 
 
-    4. Guitar tabs 
+    - Guitar tabs 
 
 
 ## Technologies Used  
 
 ---  
 
-### Languages Used   
+ ### Languages Used   
 
-    HTML5 
+ - HTML5 
 
-    CSS3   
+ - CSS3   
  
 
 ## Frameworks, Libraries & Programs Used   
 
-    1. Bootstrap 4.2.1 : 
+1. Bootstrap 4.2.1 : 
+    -   I used bootstrap to create responsive designs. 
 
-        I used bootstrap to create responsive designs. 
+2. Font Awesome  
+    -  Font Awesome was used for the social media icons and hamburger navigation icon. 
 
-    2. Font Awesome  
+3. Git: 
+    -   Git was used to Update and access versions using Gitpod to push to GitHub. 
 
-        Font Awesome was used for the social media icons and hamburger navigation icon. 
+4. GitHub: 
+    -  GitHub is used to store the code for the project. 
 
-    3. Git: 
+5. Balsamiq: 
+    -  Balsamiq was used to create the wireframes for the project. 
 
-        Git was used to Update and access versions using Gitpod to push to GitHub. 
-
-    4. GitHub: 
-
-        GitHub is used to store the code for the project. 
-
-    5. Balsamiq: 
-
-        Balsamiq was used to create the wireframes for the project. 
-
-    6. jQuery 3.2.1  
-
-        jQuery was used to make the collapsible navigation.  
+6. jQuery 3.2.1  
+    - jQuery was used to make the collapsible navigation.  
  
 
 ## Testing  
@@ -237,34 +231,23 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
 
 #### Widths  
 
-    An issue I ran into while working on the index.html page was the overview texts width, I had it set to 33% originally but this caused issues with sizing.  
-
-    I fixed this by making it fit-content and this gave me the look I wanted.   
+   - An issue I ran into while working on the index.html page was the overview texts width, I had it set to 33% originally but this caused issues with sizing.  
+        I fixed this by making it fit-content and this gave me the look I wanted.   
  
 
 #### Responsive Nav Bar 
 
-    I wanted to create a responsive nav bar for mobile that would shrink down into a hamburger icon. This caused a lot of issues as it involved jQuery which is something I had  
-
-    no experience with. It took me a long time to even know what to google but I eventually found a stack overflow post (link in the credits section) that explained what I needed and  
-
-    how to implement it. This problem taught me that how you phrase your question can give you different results on google search.   
+  -  I wanted to create a responsive nav bar for mobile that would shrink down into a hamburger icon. This caused a lot of issues as it involved jQuery which is something I had no experience with. It took me a long time to even know what to google but I eventually found a stack overflow post (link in the credits section) that explained what I needed and how to implement it. This problem taught me that how you phrase your question can give you different results on google search.   
  
 
 #### Side Scrolling 
 
-    When I added a bootstrap form onto contact.html It caused side scrolling. I was unsure how to remove it but also wanted to keep using the bootstrap as it saved me a lot of time. 
-
-    This caused me to search for a solution on stack overflow where I quickly found a solution that I would not have figured out on my own without a lot of time and effort. This taught me  
-
-    that stack overflow covers a large number of topics and that you can find a solution to almost any problem.   
+  - When I added a bootstrap form onto contact.html It caused side scrolling. I was unsure how to remove it but also wanted to keep using the bootstrap as it saved me a lot of time. This caused me to search for a solution on stack overflow where I quickly found a solution that I would not have figured out on my own without a lot of time and effort. This taught me that stack overflow covers a large number of topics and that you can find a solution to almost any problem.   
  
 
 #### Z-Index 
 
-    I ran into a issue where the easy songs section of my site would cover the images. This confused me as I had no idea why this was happening. I then remembered a lesson on z-indexing 
-
-    that allowed me to solve the problem by giving the types section a z-index of 1 and a z-index of 0 to easy songs section.  
+   - I ran into a issue where the easy songs section of my site would cover the images. This confused me as I had no idea why this was happening. I then remembered a lesson on z-indexing that allowed me to solve the problem by giving the types section a z-index of 1 and a z-index of 0 to easy songs section.  
  
 
 ## Deployment   
@@ -325,11 +308,11 @@ $ git clone https://github.com/Kieran-Bourke/Milestone-project-1.git
 
 7. Press Enter. Your local clone will be created.  
 
-``` 
+```  
 
 $ git clone https://github.com/Kieran-Bourke/Milestone-project-1.git
 
-> Cloning into `CI-Clone`... 
+>  Cloning into `CI-Clone`... 
 
 > remote: Counting objects: 10, done. 
 
@@ -370,7 +353,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media  
 
-    Below are links to all images used on this website. 
+Below are links to all images used on this website. 
 
 -    [Acoustic section background image](https://unsplash.com/photos/fCEJGBzAkrU) 
 
