@@ -318,7 +318,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ``` 
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY 
+$ git clone https://github.com/Kieran-Bourke/Milestone-project-1.git
 
 ``` 
 
@@ -326,7 +326,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ``` 
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY 
+$ git clone https://github.com/Kieran-Bourke/Milestone-project-1.git
 
 > Cloning into `CI-Clone`... 
 
