@@ -1,6 +1,6 @@
 <h1 align="center">Simply Guitar</h1> 
 
-This website is designed to inform aspiring guitar players on the basics of guitar. The website will take them through the basics of each type of guitar as well as point them towards external learning resources.   
+This website is designed to inform aspiring guitar players on the basics of guitar. The website will take them through the basics of each type of guitar as well as point them towards external learning resources. [Link to live version of site](https://kieran-bourke.github.io/Milestone-project-1/)  
 
 ---  
 
