@@ -365,7 +365,7 @@ Below are links to all images used on this website.
 
 -    [Acoustic & classical guitar image 2 and 4](https://unsplash.com/photos/ywul8FFm688) 
 
--    [electric Stratocaster](https://unsplash.com/photos/ozYO4i92tQE    ) 
+-    [electric Stratocaster](https://unsplash.com/photos/ozYO4i92tQE) 
 
 -    [electric telecaster](https://unsplash.com/photos/vcRv5gr_cnI) 
 
@@ -375,7 +375,7 @@ Below are links to all images used on this website.
 ### Acknowledgements  
 
 * My college tutor for helpful feedback. 
-
+* My mentor for helpful feedback. 
  
  
  
