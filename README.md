@@ -124,7 +124,7 @@ differences between the different guitars.
 
 I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of syntax errors. 
 
-- 
+
 
  [W3C Markup Validator](https://validator.w3.org/#validate_by_input)[- index.html](assets/w3c-validators/index-html-validator.JPG)   
 
