@@ -2,6 +2,7 @@
 
 This website is designed to inform aspiring guitar players on the basics of guitar. The website will take them through the basics of each type of guitar as well as point them towards external learning resources. [Link to live version of site](https://kieran-bourke.github.io/Milestone-project-1/)  
 
+<h2 align="center"><img src="assets/images/amIResponsive-image.JPG"></h2>
 ---  
 
 ## UX  
