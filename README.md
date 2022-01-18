@@ -159,7 +159,7 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
 
   3. To be able to easily and quickly find the information they are looking for.      
 
-        1. The user can quickly jump to the page that they desire by clicking the links.  
+        1. The user can quickly jump to the page that they desire by clicking the links in the nav bar, learn more buttons or links in footer of page. 
 
         2. Page layouts are consistent across all information pages leading to an easier time with finding information. 
 
