@@ -2,7 +2,7 @@
 
 This website is designed to inform aspiring guitar players on the basics of guitar. The website will take them through the basics of each type of guitar as well as point them towards external learning resources. [Link to live version of site](https://kieran-bourke.github.io/Milestone-project-1/)  
 
-<h2 align="center"><img src="assets/images/amIResponsive-image.JPG"></h2>
+<h2 align="center"><img src="assets/readmme-only-images/amIResponsive-image.JPG"></h2>
 
 ---
 
@@ -122,17 +122,17 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
 
 
 
- [W3C Markup Validator](https://validator.w3.org/#validate_by_input)[- index.html](assets/w3c-validators/index-html-validator.JPG)   
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [index.html](assets/w3c-validators/index-html-validator.JPG)   
 
- [W3C Markup Validator](https://validator.w3.org/#validate_by_input)-[acoustic.html](assets/w3c-validators/acoustic-validator.JPG)   
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [acoustic.html](assets/w3c-validators/acoustic-validator.JPG)   
 
- [W3C Markup Validator](https://validator.w3.org/#validate_by_input)[- electric.html](assets/w3c-validators/electric-validator.JPG)   
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [electric.html](assets/w3c-validators/electric-validator.JPG)   
 
- [W3C Markup Validator](https://validator.w3.org/#validate_by_input)[- classical.html](assets/w3c-validators/classical-validator.JPG)   
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [classical.html](assets/w3c-validators/classical-validator.JPG)   
 
- [W3C Markup Validator](https://validator.w3.org/#validate_by_input)[- contact.html](assets/w3c-validators/contact-validator.JPG)   
+ [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [contact.html](assets/w3c-validators/contact-validator.JPG)   
 
- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)[- style.css](assets/w3c-validators/css-validation.JPG) 
+ [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [style.css](assets/w3c-validators/css-validation.JPG) 
 
 
  ### Testing User Stories From User Experience (UX) Section  
@@ -152,7 +152,7 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
 
         1. When entering the site, the user is greeted with a visible navigation bar which is consistent across pages. 
 
-        . If the user scrolls down, they will see a Learn more button that takes them to the other pages.  
+        2. If the user scrolls down, they will see a Learn more button that takes them to the other pages.  
 
         3. If the user scrolls all the way down to the bottom of the page, they will see navigation links within the footer.   
 
@@ -221,9 +221,9 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
 
         1. The website uses quick overviews to help the user understand the differences between the guitar types. 
 
-        2. The website displays multiple images to add to the understanding of the differences between guitar types. (Some images need to be changed and positioned) 
+        2. The website displays multiple images to add to the understanding of the differences between guitar types.  
 
-        3. The website uses audio to further add to the understanding of the differences between guitar types. (Audio will be added soon)  
+        3. The website uses audio to further add to the understanding of the differences between guitar types.   
  
 
 ## Problems I had  
