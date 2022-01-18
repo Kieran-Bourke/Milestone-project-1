@@ -136,7 +136,7 @@ h5 {
 #footer-bottom {
   position: relative;
   width: 100%;
-  margin-top: 19.9vh;
+  margin-top: 22.6vh;
   
 }
 
@@ -231,6 +231,7 @@ audio {
   .image-scale{
     width: 100%;
     height: auto;
+    padding-bottom: 5px;
   }
   
 
@@ -246,6 +247,7 @@ audio {
    .image-scale{
     width: 100%;
     height: auto;
+    padding-bottom: 5px;
   }
 
 }
@@ -263,6 +265,7 @@ audio {
    .image-scale{
     width: 100%;
     height: auto;
+    padding-bottom: 5px;
   }
   
 
@@ -308,7 +311,6 @@ audio {
       width: 100%;
       height: auto;
     }
-
  
 
 }
