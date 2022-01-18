@@ -142,20 +142,20 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
   1. To easily understand the purpose of the website.  
 
         1. Upon entering the site the user is greeted by the title Simply Guitar a navigation bar and a large image of an acoustic guitar. 
-
+            [Example](assets/readmme-only-images/testing-user-story-1.JPG)
         2. The large image of the acoustic guitar as well as the brief acoustic guitar overview makes it easy to understand what the site will be like.  
-
+            [Example](assets/readmme-only-images/testing-user-story-2.JPG)
         3. If the user scrolls down, they will see a Learn more button as well as 2 other sections for different guitars.   
- 
+            [Example](assets/readmme-only-images/testing-user-story-3.JPG)
 
   2. To be able to easily navigate between pages.  
 
         1. When entering the site, the user is greeted with a visible navigation bar which is consistent across pages. 
-
+            [Example](assets/readmme-only-images/testing-user-story-10.JPG)
         2. If the user scrolls down, they will see a Learn more button that takes them to the other pages.  
-
+            [Example](assets/readmme-only-images/testing-user-story-3.JPG)
         3. If the user scrolls all the way down to the bottom of the page, they will see navigation links within the footer.   
-
+            [Example](assets/readmme-only-images/testing-user-story-4.JPG)
 
   3. To be able to easily and quickly find the information they are looking for.      
 
@@ -164,7 +164,7 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
         2. Page layouts are consistent across all information pages leading to an easier time with finding information. 
 
         3. Each section is titled to make it easier to navigate to the information that you want.  
-
+            [Example](assets/readmme-only-images/testing-user-story-5.JPG)
 
 - ####  Returning Visitor Goals  
 
@@ -190,11 +190,11 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
   3. To feel comfortable using the contact form if anything is not working.       
 
         1. The contact form is made similar to contact forms on other websites to make it easier for a user to understand. 
-
+            [Example](assets/readmme-only-images/testing-user-story-6.JPG)
         2. Titles are used to display what is required from the user in each section and the input sections will warn the user if the information is not the required type. 
 
         3. Place holder text is used to give the user a better understanding of what is needed. 
- 
+             [Example](assets/readmme-only-images/testing-user-story-11.JPG)
 
 - #### Frequent Visitor Goals 
    
@@ -220,11 +220,11 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
   3. To understand the differences in guitar types and feel confident in recommending the site.      
 
         1. The website uses quick overviews to help the user understand the differences between the guitar types. 
-
+            [Example](assets/readmme-only-images/testing-user-story-7.JPG)
         2. The website displays multiple images to add to the understanding of the differences between guitar types.  
-
+            [Example](assets/readmme-only-images/testing-user-story-8.JPG)
         3. The website uses audio to further add to the understanding of the differences between guitar types.   
- 
+            [Example](assets/readmme-only-images/testing-user-story-9.JPG)
 
 ## Problems I had  
 
