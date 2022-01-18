@@ -192,9 +192,9 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
         1. The contact form is made similar to contact forms on other websites to make it easier for a user to understand. 
             [Example](assets/readmme-only-images/testing-user-story-6.JPG)
         2. Titles are used to display what is required from the user in each section and the input sections will warn the user if the information is not the required type. 
-
+           
         3. Place holder text is used to give the user a better understanding of what is needed. 
-             [Example](assets/readmme-only-images/testing-user-story-11.JPG)
+            [Example](assets/readmme-only-images/testing-user-story-11.JPG)
 
 - #### Frequent Visitor Goals 
    
@@ -259,7 +259,7 @@ I used W3C Markup Validator and W3C CSS Validator to ensure my code was free of 
 
 The project was deployed to GitHub Pages using the following steps...  
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/) 
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Kieran-Bourke/Milestone-project-1) 
 
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu. 
 
@@ -271,7 +271,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 5. The page will automatically refresh. 
 
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.  
+6. Scroll back down through the page to locate the now published site [link](https://kieran-bourke.github.io/Milestone-project-1/) in the "GitHub Pages" section.  
  
 
 ### Forking the GitHub Repository 
@@ -279,7 +279,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...  
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/) 
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Kieran-Bourke/Milestone-project-1) 
 
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button. 
 
@@ -288,7 +288,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ### Making a Local Clone  
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/) 
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Kieran-Bourke/Milestone-project-1) 
 
 2. Under the repository name, click "Clone or download". 
 
